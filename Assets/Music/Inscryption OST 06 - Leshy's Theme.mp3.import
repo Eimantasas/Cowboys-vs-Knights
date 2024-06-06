@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpur3syd2f7hn"
+path="res://.godot/imported/Inscryption OST 06 - Leshy's Theme.mp3-e887dbb5534829bbedd23846012d9a2a.mp3str"
+
+[deps]
+
+source_file="res://Assets/Music/Inscryption OST 06 - Leshy's Theme.mp3"
+dest_files=["res://.godot/imported/Inscryption OST 06 - Leshy's Theme.mp3-e887dbb5534829bbedd23846012d9a2a.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

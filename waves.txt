@@ -1,0 +1,100 @@
+OLD WAVES
+	## Wave 1 ##
+	for i in 10:
+		wave_data.append(["Squire", 2])
+	for i in 2:
+		wave_data.append(["Knight", 5])
+	for i in 2:
+		wave_data.append(["Knight", 10])
+
+
+	## Wave 2 ##
+	for i in 15:
+		wave_data.append(["Squire", 1])
+	for i in 4:
+		wave_data.append(["Knight", 4])
+	for i in 1:
+		wave_data.append(["Knight", 8])
+	for i in 1:
+		wave_data.append(["Templar", 10])
+
+	## Wave 3 ##
+	for i in 10:
+		wave_data.append(["Knight", 3])
+	for i in 4:
+		wave_data.append(["Templar", 4])
+	for i in 1:
+		wave_data.append(["Templar", 10])
+	for i in 1:
+		wave_data.append(["Sentinel", 15])
+		
+
+	## Wave 4 ##
+	for i in 10:
+		wave_data.append(["Knight", 1])
+	for i in 5:
+		wave_data.append(["Templar", 4])
+	for i in 1:
+		wave_data.append(["Sentinel", 8])
+	for i in 3:
+		wave_data.append(["Templar", 5])
+	for i in 2:
+		wave_data.append(["Templar", 15])
+		
+	## Wave 5 ##
+	for i in 10:
+		wave_data.append(["Templar", 1.5])
+	for i in 1:
+		wave_data.append(["Sentinel", 4])
+	for i in 8:
+		wave_data.append(["Templar", 1])
+	for i in 1:
+		wave_data.append(["Sentinel", 5])
+	for i in 5:
+		wave_data.append(["Spartan", 8])
+		
+	## Wave 6 ##
+	for i in 10:
+		wave_data.append(["Templar", 1])
+	for i in 3:
+		wave_data.append(["Sentinel", 4])
+	for i in 10:
+		wave_data.append(["Spartan", 3])
+	for i in 10:
+		wave_data.append(["Templar", 1])
+	
+	## Wave 7 ##
+	for i in 10:
+		wave_data.append(["Spartan", 1])
+	for i in 5:
+		wave_data.append(["Templar", 1])
+	for i in 5:
+		wave_data.append(["Sentinel", 1])
+	for i in 10:
+		wave_data.append(["Plagued", 1.5])
+	
+	## WAVE 8 ##
+	for i in 10:
+		wave_data.append(["Plagued", 1])
+	for i in 1:
+		wave_data.append(["Executioner", 5])
+	for i in 1:
+		wave_data.append(["Executioner", 1])
+	for i in 1:
+		wave_data.append(["Pestilence", 15])
+	for i in 10:
+		wave_data.append(["Plagued", 1])
+	for i in 1:
+		wave_data.append(["Plagued", 15])
+	for i in 10:
+		wave_data.append(["Plagued", 1])
+	for i in 1:
+		wave_data.append(["Plagued", 15])
+	for i in 10:
+		wave_data.append(["Plagued", 1])
+	for i in 1:
+		wave_data.append(["Plagued", 15])
+	for i in 10:
+		wave_data.append(["Plagued", 1])
+	for i in 1:
+		wave_data.append(["Plagued", 15])
